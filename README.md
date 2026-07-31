@@ -19,9 +19,13 @@ Currently seeking **Software Engineer / Programmer Trainee** roles where I can b
 ## 🛠️ Tech Stack
 
 **Languages:** Python · Java · C · C++ · TypeScript/JavaScript
+
 **Web & Backend:** Next.js · React · Node.js/Express · Socket.io · Prisma ORM
+
 **AI / Data:** Machine Learning Fundamentals · Computer Vision · Data Analysis · Predictive Modeling · GenAI Tools
+
 **Tools:** Docker · Git · Redis · Agile/Scrum
+
 **Core CS:** Data Structures & Algorithms · OOP · Computer Networks
 
 ---
